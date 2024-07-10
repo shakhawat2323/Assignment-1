@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
 *{
     margin:0;
     padding:0;
     box-sizing: border-box;
 }
 body{
+    font-family: "Azeret Mono", monospace;
     font-family: "Azeret Mono", monospace;
 }
 /* banner header section start here  */
@@ -244,7 +246,7 @@ height: 208.85px; */
 .youtube-video-link{
   border:2px solid red;
   width: 1050px;
-  height: 775px;
+  height: 600px;
   margin:0 auto;
   margin-top:20px;
 }
@@ -262,8 +264,89 @@ height: 208.85px; */
   border-radius: 16px;
   display: flex;
   margin:0 auto;
-  width: 800px;
-  height: 550px;
+  width: 700px;
+  height: 350px;
+}
+.skill-list{
+  border:2px solid red;
+  width: 1050px;
+  height: 1200px;
+  margin:0 auto;
+  margin-top:30px;
+}
+.my-current-target-is-to-change-my-life-in-six-months{
+  border:2px solid goldenrod;
+  width: 946px;
+  height: 113px;
+  margin:0 auto;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 400;
+}
+.skill-list1{
+  display: flex;
+   gap:10px;
+
+  
+}
+.skill-description{
+  
+}
+
+
+.skill-html{
+  width: 364px;
+  height: 300;
+  margin-top: 50px;
+  background-color:#fff6f4;
+  border-radius:10px;
+  padding:10px;
+
+}
+.skill-css{
+  width: 364px;
+  height: 300;
+  margin-top: 50px;
+  background-color: #F2F6FE;
+  border-radius:10px;
+  padding: 10px;
+}
+.skill-JavaScript{
+  width: 364px;
+  height: 300;
+  margin-top: 50px;
+  background-color: #FFFDF2;
+  border-radius:10px;
+  padding: 10px;
+  
+
+}
+.skill-html img {
+  margin-left:-15px;
+}
+.skill-css img {
+  margin-left:-15px;
+}
+.my-next-target{
+  border:2px solid red;
+  width: 852px;
+  height: 113px;
+  /* margin-top: 200px; */
+  
+  margin:0 auto;
+  margin-top: 111px;
+  text-align: center;
+  font-family: Azeret Mono;
+  font-size: 15px;
+  font-weight: 500px;
+  margin-bottom: 30px;
+
+
+}
+.my-next-target p{
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
 }
 
 
