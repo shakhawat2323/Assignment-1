@@ -270,7 +270,7 @@ height: 208.85px; */
 .skill-list{
   border:2px solid red;
   width: 1050px;
-  height: 1200px;
+  height: 1500px;
   margin:0 auto;
   margin-top:30px;
 }
@@ -348,6 +348,62 @@ height: 208.85px; */
   font-size: 16px;
   font-weight: 400;
 }
+ .rect-main{
+border:2px solid red;
+width: 1000px;
+height: 150px;
+margin:0 auto;
+display: flex;
+border-radius:20px ;
+margin-bottom: 20px;
+
+
+  
+} 
+.rect-img{
+  border:2px solid red;
+  width:150px;
+  height: 130px;
+  margin-top: 5px;;
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+
+
+}
+.rect-tex{
+  border:2px solid red;
+  width:650px;
+  height: 130px;
+  
+   margin-top: 5px;;
+  margin-left: 15px;
+
+
+
+}
+/* .rect-main{
+  border:2px solid red;
+  width: 75%;
+  height: 130px;
+  margin-left:220px;
+  margin-top: 10px; */
+  
+} 
+/* .banner-react-imag{
+  border:2px solid red;
+  width: 15%;
+  height: 130px;
+  /* margin-left:220px;
+  margin-top: 10px; */ */
+  
+}
+
+
+
 
 
 
