@@ -1,0 +1,276 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Azeret Mono", monospace;
+}
+/* banner header section start here  */
+
+.benner-three{
+  background-image: url(images/Hero-bg.png);
+  max-width: 1100px;
+  border:2px solid red;
+  height:600px;
+  margin:0 auto;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  margin-bottom: 30px;
+  
+   
+}
+.benner-fast {
+  border:2px solid rgb(226, 13, 113);
+  width: 900px;
+  height: 500px;
+  margin-left: 100px;
+
+
+}
+.benner-fast h1,p{
+  margin-top: 20px;
+}
+.btn-conten{
+  
+  border-radius: 8px;
+  background: rgb(13, 27, 59);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 208px;
+  height:60px;
+  color:white ;
+  padding: 21px 24px 21px 24px;
+  margin-top: 32px;
+  margin-left: 320px;
+  
+
+}
+
+.main-contener{
+  margin-top: 20px;
+  border:2px solid red;
+  width: 1050px;
+  height: 1100px;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: flex-start; */
+  align-items: center;
+   margin: 0 auto;
+   
+   padding: 80px 97px 80px  97px;
+   border-radius: 16px;
+   background-color:rgba(13, 19, 33, 0.02);
+   
+ 
+  
+}
+.secend-contener-main{
+  width: 980px;
+  height: 1020px;
+  border:3px solid greenyellow;
+  background-color:#FCFCFD;
+  
+  
+   
+}
+.fist{
+  border:2px solid red;
+  margin:0 auto;
+  font-family: Azeret Mono;
+  
+  
+  text-align: center;
+
+}
+.secend{
+  border:2px solid red;
+  width: 850px;
+  height: 240px;
+  margin:0 auto;
+  margin-top:32px;
+  border-radius: 16px;
+  background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+  
+  
+}
+.secend-secend-div{
+  border:2px solid rgb(115, 21, 238);
+  width:820px;
+  height:220px;
+  /* margin:0 auto; */
+  margin:10px 15px 10px 15px;
+  display: flex;
+  
+ 
+
+  
+}
+.therd{
+  border:2px solid greenyellow;
+  width:50%;
+  height:216px;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  
+
+  
+}
+.therd p{
+  font-size: 11px;
+
+}
+.therd h3{
+  font-size: 20px;
+  font-weight: 600;
+}
+.btn-contenerr{
+  width: 150px;
+  height: 48px;
+  margin-top: 70px;
+  
+}
+
+.therd-div-image{
+  border:2px solid red;
+  width:50%;
+  height:216px;
+
+
+
+}
+.therd-div-image img{
+  background-repeat: no-repeat;
+  width: 259.56px;
+  height: 217.01px;
+  margin-left: 150px;
+
+
+}
+.thered-contener-main{
+  border:2px solid red;
+  width: 850px;
+  height: 240px;
+  margin:0 auto;
+  margin-top:32px;
+  
+}
+.thered-contener-div{
+  border:2px solid red;
+  width: 830px;
+  height: 220px;
+  margin:0 auto;
+  margin-top:7px;
+  
+  display: flex;
+  background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+
+}
+.bennar-bootom{
+  border:2px solid red;
+  width: 40%;
+  height: 220px;
+  
+
+
+} 
+.bennar-bootom img{
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left:70px;
+  /* width: 223.2px;
+height: 208.85px; */
+
+}
+.thardconter-right{
+  border:2px solid rgb(15, 156, 39);
+  width: 60%;
+  height: 220px;
+}
+.thardconter-right {
+  color: rgba(13, 19, 33, 0.7);
+  font-family: Azeret Mono;
+  font-size: 13px;
+  font-weight: 300;
+}
+.loar{
+  border:2px solid red;
+  width: 850px;
+  height: 240px;
+  margin:0 auto;
+  margin-top:32px;
+  
+  
+} 
+.loer2{
+  border:2px solid red;
+  width: 830px;
+  height: 220px;
+  margin:0 auto;
+  display:flex;
+  
+  margin-top:10px;
+}
+.loer-text{
+  border:2px solid rgb(15, 156, 39);
+  width: 70%;
+  height: 218px;
+
+}
+.loer-text1{
+  border:2px solid rgb(15, 156, 39);
+  width: 50%;
+  height: 218px;
+
+}
+.loer-text{
+  font-size: 13px;
+  font-weight: 300;
+}
+.loer-text1 img{
+  margin-left:80px;
+}
+.youtube-video-link{
+  border:2px solid red;
+  width: 1050px;
+  height: 775px;
+  margin:0 auto;
+  margin-top:20px;
+}
+.youtube-text{
+  border:2px solid red;
+  width: 852px;
+  height: 113px;
+  margin:0 auto;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.youtube-video iframe{
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.2);
+  border-radius: 16px;
+  display: flex;
+  margin:0 auto;
+  width: 800px;
+  height: 550px;
+}
+
+
+
+
+
+
+
+
+ 
