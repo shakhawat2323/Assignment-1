@@ -11,7 +11,7 @@ body{
 }
 /* banner header section start here  */
 
-.benner-three{
+.benner-section{
   background-image: url(images/Hero-bg.png);
   max-width: 1100px;
   /* border:2px solid red; */
@@ -26,7 +26,7 @@ body{
   
    
 }
-.benner-fast {
+.first-banner-section {
   /* border:2px solid rgb(226, 13, 113); */
   width: 900px;
   height: 500px;
@@ -34,7 +34,7 @@ body{
 
 
 }
-.benner-fast h1,p{
+.first-banner-section h1 , p {
   margin-top: 20px;
 }
 .btn-conten{
@@ -73,7 +73,7 @@ body{
  
   
 }
-.secend-contener-main{
+.first-contener-main{
   width: 980px;
   height: 1020px;
   /* border:3px solid greenyellow; */
@@ -82,7 +82,7 @@ body{
   
    
 }
-.fist{
+.why-web-development{
   /* border:2px solid red; */
   margin:0 auto;
   font-family: Azeret Mono;
@@ -91,7 +91,7 @@ body{
   text-align: center;
 
 }
-.secend{
+.change-the-world-section{
   /* border:2px solid red; */
   width: 850px;
   height: 240px;
@@ -102,7 +102,7 @@ body{
   
   
 }
-.secend-secend-div{
+.change-the-world-section-01{
   /* border:2px solid rgb(115, 21, 238); */
   width:820px;
   height:220px;
@@ -114,7 +114,7 @@ body{
 
   
 }
-.therd{
+.change-the-world-section-descreption{
   /* border:2px solid greenyellow; */
   width:50%;
   height:216px;
@@ -125,11 +125,11 @@ body{
 
   
 }
-.therd p{
+.change-the-world-section-descreption p{
   font-size: 11px;
 
 }
-.therd h3{
+.change-the-world-section-descreption h3{
   font-size: 20px;
   font-weight: 600;
 }
@@ -206,7 +206,7 @@ height: 208.85px; */
   font-size: 13px;
   font-weight: 300;
 }
-.loar{
+.main-box-model{
   /* border:2px solid red; */
   width: 850px;
   height: 240px;
@@ -215,7 +215,7 @@ height: 208.85px; */
   
   
 } 
-.loer2{
+.secend-box-model{
   /* border:2px solid red; */
   width: 830px;
   height: 220px;
@@ -224,23 +224,23 @@ height: 208.85px; */
   
   margin-top:10px;
 }
-.loer-text{
+.text-box{
   /* border:2px solid rgb(15, 156, 39); */
   width: 70%;
   height: 218px;
 
 }
-.loer-text1{
+.text-box-01{
   /* border:2px solid rgb(15, 156, 39); */
   width: 50%;
   height: 218px;
 
 }
-.loer-text{
+.text-box{
   font-size: 13px;
   font-weight: 300;
 }
-.loer-text1 img{
+.text-box-01 img{
   margin-left:80px;
 }
 .youtube-video-link{
